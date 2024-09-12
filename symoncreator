@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+ <html lang="pt-br">
+ <head>
+ <meta charset= "utf-8">
+ <title>"symonprogamador.com"</title>
+ </head>
+ 
+ <body style="background-color:#323030">
+ <article>
+	<div style="text-align: center; width: 100%">
+ <img src="realista.png"  style="width: 100%" />
+ </div>
+ 
+ <div style="text-align:center">
+ <p style="font-family:Arial; color:#0CC0DF;
+ font-size:20px;">
+ <a href="file:///C:/img/simas.html">PAGINA INICIAL</a> | PROGAMADOR | <a href="file:///C:/design/design.html">DESIGN GRÁFICO</a> | <a href="file:///C:/historia/historia.html">HISTÓRIA</a>
+	</p>
+</div>
+<div style="text-align:center">
+ <p style="font-family:Arial; color:#0CC0DF;
+ font-size:20px;">
+<ul style="font-family:Arial; color:#0CC0DF;
+ font-size:20px;">
+		<li>Está interessado em desenvolver sites, aplicativos e muito mais?</li>
+		<li>Venha solicitar um orçamento conosco! Oferecemos preços justos, com prévia inclusa,</li>
+		<li>e a opção de pagamento parcelado.</li>
+
+		<li>Nossos serviços incluem:</li>
+</ul>
+<ul style="font-family:Arial; color:#0CC0DF;
+ font-size:20px;">
+		<li>Desenvolvimento de Páginas Web</li>  
+		<li>Criação de Websites</li>  
+		<li>Desenvolvimento de Aplicativos</li>  
+<hr>
+		<li>Entre em contato:</li>  
+		<li>(21) 96631-1188</li>
+</ul>
+ </p>
+ </div>
+</article>
+ </body>  
+</html>
